@@ -303,7 +303,7 @@ ul#nav li.current a { color: #F06000; }
   	border-radius: 3px;
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	font: 12px 'opensans-bold', sans-serif;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;
@@ -359,6 +359,7 @@ ul#nav li.current a { color: #F06000; }
    width: 100%;
    -moz-animation: full 2s ease;
    -webkit-animation: full 2s ease;
+   margin-top: 2.5% !important;
 }
 .centerSkill {
    margin-left: 40% !important;
