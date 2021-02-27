@@ -355,6 +355,15 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+.full {
+   width: 100%;
+   -moz-animation: full 2s ease;
+   -webkit-animation: full 2s ease;
+}
+.centerSkill {
+   margin-left: 40% !important;
+   margin-bottom: 5% !important;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
